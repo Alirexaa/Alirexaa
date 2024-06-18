@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alireza-baloochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-baloochi" height="60" width="80" /></a>
-<a href="https://www.youtube.com/c/@alirezabaloochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alirezabaloochi" height="60" width="80" /></a>
+<a href="https://www.youtube.com/@alirezabaloochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alirezabaloochi" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Professional skills:</h3>
