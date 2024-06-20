@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Simagar** as Team Lead
 
-- 📝 I regularly write articles on [baloochi.net](https://baloochi.net)
+- 📝 I regularly write articles on [baloochi.net](https://baloochi.net?utm_source=github&utm_medium=github)
 
 - 💬 Ask me about **.NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD**
 
